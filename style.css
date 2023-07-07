@@ -1,0 +1,15 @@
+body{
+    background-color: palevioletred;
+    margin-left: 400px;
+
+}
+.form{
+    background-color: pink;
+    border: 2px solid pink;
+    width: 180px;
+    padding: 10px;
+    
+}
+input[type="submit"]{
+    background-color: #14AA90;
+}
